@@ -1,6 +1,8 @@
 ---
 title: "Misc"
 permalink: /misc/
+layout: single
+classes: wide
 author_profile: true
 ---
 
@@ -23,3 +25,19 @@ author_profile: true
 * Outstanding Graduate in CSU , 2017
 * National Encouragement scholarship , 2014,2016
 * Excellent Student ,2014,2016
+
+## Academic Project	
+
+**Post-graduate Exploration Project**
+
+Research on Load Balancing Algorithm for Large-scale Heterogeneous Traffic in Data Center Network (Top 1%) , 2018.3-2019.3 
+
+**Undergraduate Exploration Project**
+
+A Mobile terminal authentication method based on location area identification , 2015.9-2016.9
+
+
+## Teaching Experience	
+
+Teaching Assistant, CSU: Information Security Engineering 2018 Spring 
+
