@@ -3,7 +3,7 @@ main:
     url: /publications/
   - title: "Research"
     url: /research/
-  - title: "Data-sets"
-    url: /data-sets/
+  - title: "Misc"
+    url: /misc/
   - title: "Personal"
     url: /personal/
