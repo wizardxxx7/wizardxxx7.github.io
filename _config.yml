@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Yiwei Song's Homepage
-description: "iwei Song's Homepage"
+description: "Yiwei Song's Homepage"
 name: Yiwei Song
 logo: "/assets/images/ru.svg"
 minimal_mistakes_skin: default
